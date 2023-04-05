@@ -1,8 +1,12 @@
+![github-header-image](https://user-images.githubusercontent.com/127029449/230213512-8248d59c-aec3-4b30-b141-143c8cd52c49.png)
 
 <h1 align="center">Hi 👋, I'm Kokila 👩🏾‍💻</h1>
 <h3 align="center">Passionate about creating and implementing effective testing strategies to ensure the success of software products.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kokisanthanam" alt="kokisanthanam" /></a> </p>
+
+<img src="https://user-images.githubusercontent.com/127029449/230216380-ad4c85f5-97fb-4633-8856-6ee04acdf359.JPG" alt="Coding" height="250" width="350" align="right">
+                            
 
 - 🔭 I worked in **Cognizant Technology Solution**
 
