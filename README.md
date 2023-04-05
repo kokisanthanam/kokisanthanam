@@ -1,7 +1,6 @@
-[![MasterHead](https://www.freepik.com/free-vector/tiny-people-testing-quality-assurance-software-isolated-flat-vector-illustration-cartoon-character-fixing-bugs-hardware-device-application-test-it-service-concept_10613736.htm#query=software%20testing&position=0&from_view=keyword&track=ais)]
+
 <h1 align="center">Hi 👋, I'm Kokila 👩🏾‍💻</h1>
 <h3 align="center">Passionate about creating and implementing effective testing strategies to ensure the success of software products.</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\hp\Desktop\Java\girl.JPG">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kokisanthanam" alt="kokisanthanam" /></a> </p>
 
@@ -17,8 +16,6 @@
 
 - 📫 How to reach me **kokisanthanam@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
