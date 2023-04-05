@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/127029449/230213512-8248d59c-aec3-4b30-b141-143c8cd52c49.png)
+![github-header-image (1)](https://user-images.githubusercontent.com/127029449/230226377-044d4203-b5f0-4512-bf35-866882cc80b7.png)
 
 <h1 align="center">Hi 👋, I'm Kokila 👩🏾‍💻</h1>
 <h3 align="center">Passionate about creating and implementing effective testing strategies to ensure the success of software products.</h3>
